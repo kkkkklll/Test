@@ -1,0 +1,64 @@
+* {
+	margin: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	
+}
+
+div {
+	float: left;
+}
+
+.header-box {
+	background:#8c222c;
+	color: white;
+	
+	height: 36px;
+	position: relative;
+}
+
+.header-nav1 {
+	margin-left: 3%;
+	
+	
+}
+.header-logo{
+	font-weight: 300;
+	font-size: small;
+	position: absolute;
+	padding-top: 0.5%;
+}
+.header-list{
+	position: relative;
+	margin-left: 62%;
+	
+}
+.header-list span{
+margin-left: 30px;
+	
+	
+}
+/*.info-win {
+	display:block;
+	position: absolute;
+	top: 36px;
+	left: 0;
+	z-index: 1000;
+	width: auto;
+	height: auto;
+	border: 1px solid #ccc;
+	background-color: #fff;
+}
+
+.area-box {
+	width: 260px;
+	padding: 10px 0 6px 14px;
+	background-color: #fff;
+}
+
+.item {
+	float: left;
+	width: 49px;
+	height: 20px;
+	margin-bottom: 6px;
+}*/
